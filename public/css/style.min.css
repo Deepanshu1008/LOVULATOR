@@ -1,1 +1,15 @@
 html{-webkit-box-sizing:border-box;box-sizing:border-box}*,*::before,*::after{-webkit-box-sizing:inherit;box-sizing:inherit}
+.form-text{
+    color:palevioletred;
+}
+h1{
+    color: palevioletred;
+    font-size: 500%;
+}
+#bd{
+  background-color:#edc9dc;
+  text-align: center;
+}
+.hl{
+width: 300px;
+}
